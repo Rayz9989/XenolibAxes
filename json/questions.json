@@ -1,0 +1,758 @@
+[
+	{
+		"question": "I am not perfect.",
+		"effect": {
+			"valu": 10,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "My race is better than all others.",
+		"effect": {
+			"valu": -10,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Women belong in the kitchen.",
+		"effect": {
+			"valu": -10,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Being gay is a-okay.",
+		"effect": {
+			"valu": 10,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "All different people from me should be removed via eugenics.",
+		"effect": {
+			"valu": -10,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "We're all Terrans at the end of the day, we're all equal.",
+		"effect": {
+			"valu": 10,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Humans are just better than anyone else.",
+		"effect": {
+			"valu": 0,
+			"gene": -10,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Animals deserve rights, they shouldn't be discriminated against.",
+		"effect": {
+			"valu": 0,
+			"gene": 10,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Domestication is Slavery.",
+		"effect": {
+			"valu": 0,
+			"gene": 10,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Animals were made to serve the human populace.",
+		"effect": {
+			"valu": 0,
+			"gene": -10,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Aliens will most likely only want to invade, so we shouldn't welcome them.",
+		"effect": {
+			"valu": 0,
+			"gene": -10,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Extraterrestrials deserve rights according to their needs, if they are peaceful.",
+		"effect": {
+			"valu": 0,
+			"gene": 10,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "My Nation is better than any other nation.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": -10,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Nations and their consequences have been a disaster for the human race.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 10,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "A unified world government would be beneficial to the human race.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 10,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "My country should rule the world.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": -10,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Citizens of other countries are barbaric and should be executed.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": -10,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "We shouldn't be segregated by nations we're all human after all.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 10,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Your vote should matter.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 10,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Democracy is easily corruptible, so one man should lead us all.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": -10,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "People are stupid, why should their vote count?",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": -10,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "If a law affects the populace directly, they should vote on it.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 10,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "A Totalitarian leader understands only themselves, not the people.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 10,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Nobody can agree, Democracy gets us nowhere.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": -10,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "All victimless crimes should be legalized.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 10,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "We need to protect our citizens, they don't know what's best for them.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": -10,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "If they consent, Cannibalism should be legal.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 10,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Drugs are inherently bad, so they should be outlawed.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": -10,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "I support a right to Euthanasia.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 10,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Guns kill people, not the people.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": -10,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "The government should encourage criticism so it knows what to change.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 10,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Your opinion doesn't matter.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": -10,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "All ideological dissenters should be executed.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": -10,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Different views lead to hate, and countries are destroyed because of it.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": -10,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "If we're all the same, we can never fix any problems.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": -10,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "A Congress of different Ideologies is ideal.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": -10,
+			"relg": 0,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "A secular government cannot be moral.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": -10,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Atheists should be put to death if they don't believe.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": -10,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "My Religion should be spread godspeed.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": -10,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "I can get along with religious people.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 10,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "You should be able to believe whatever you want, even if it's esoteric.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 10,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Atheists can be moral the same way religious folk can.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 10,
+			"lead": 0,
+			"clim": 0
+		}
+	},
+	{
+		"question": "One leader is enough.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": -10,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Many leaders lead to nothing getting done, as evident in the UN high council.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": -10,
+			"clim": 0
+		}
+	},
+	{
+		"question": "One leader from each continent would suit a global world.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 10,
+			"clim": 0
+		}
+	},
+	{
+		"question": "As if one democratically elected leader wasn't bad enough, now there's more.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": -10,
+			"clim": 0
+		}
+	},
+	{
+		"question": "One man cannot represent the whole world.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 10,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Many leaders to represent different groups better represents the populace.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 10,
+			"clim": 0
+		}
+	},
+	{
+		"question": "Global warming is a threat that needs to be dealt with.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 10
+		}
+	},
+	{
+		"question": "The environment doesn't matter, we can live on our own without it.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": -10
+		}
+	},
+	{
+		"question": "We need to protect natural habitats, it's the animal's home.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 10
+		}
+	},
+	{
+		"question": "Global warming is a ruse.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": -10
+		}
+	},
+	{
+		"question": "More trees cut down = more houses for the people.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": -10
+		}
+	},
+	{
+		"question": "If all the trees are gone, we'll die from a lack of oxygen.",
+		"effect": {
+			"valu": 0,
+			"gene": 0,
+			"unit": 0,
+			"gvrn": 0,
+			"auth": 0,
+			"mind": 0,
+			"relg": 0,
+			"lead": 0,
+			"clim": 10
+		}
+	}
+]

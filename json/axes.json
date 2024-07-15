@@ -1,0 +1,210 @@
+[
+	{
+		"id": "valu",
+		"name": "Value",
+		"weights": [10, 15, 20, 10, 20, 15, 10],
+		"left": {
+			"name": "Equality",
+			"color": "#ff8be4",
+			"description": "Those with higher Equality scores believe that everyone should be viewed equally and tend to have an impartial perception of others, where they may be against treating anyone differently due to specfic judgements."
+		},
+		"right": {
+			"name": "Discrimination",
+			"color": "#4f0100",
+			"description": "Those with higher Discrimination scores believe in valuing some more than others. They tend to be in favor of exclusion and separate treatment, oftentimes even based on matters of identity or unchangeable characteristics."
+		},
+		"tiers": [
+			"Extremely Equal",
+			"Solidly Equal",
+			"Moderately Equal",
+			"Neutral",
+			"Moderately Discriminatory",
+			"Solidly Discriminatory",
+			"Extremely Discriminatory"
+		]
+	},
+	{
+		"id": "gene",
+		"name": "Genetics",
+		"left": {
+			"name": "Bioequalism",
+			"color": "#001d59",
+			"description": "Those with higher Bioequalism scores believe that species groups in general, groups of beings that share a common ancestry/gene pool, are essentially equal to other groups. Thus, they would be against seeing differently and treating differently anyone they deem as an individual in their own right as any different from one of a different species, not putting humanity above non-human folk for example."
+		},
+		"right": {
+			"name": "Speciesism",
+			"color": "#153d00",
+			"description": "Those with higher Speciesism scores often adhere to the idea that one's species should determine many aspects of their life and treatment. And even that this status might inherently entitle or disqualify beings based on their xenic origin. Oftentimes, they may advocate for the supremacy of their own species over others, like human supremacists who are hateful towards aliens, for example."
+		},
+		"tiers": [
+			"Extremely Bioequal",
+			"Solidly Bioequal",
+			"Moderately Bioequal",
+			"Neutral",
+			"Moderately Speciesist",
+			"Solidly Speciesist",
+			"Extremely Speciesist"
+		]
+	},
+	{
+		"id": "unit",
+		"name": "Unity",
+		"left": {
+			"name": "World Federalism",
+			"color": "#03a9f5",
+			"description": "Those with higher World Federalism scores believe in a united world without the constructs of nations for people to separated or filtered into."
+		},
+		"right": {
+			"name": "Ultranationalism",
+			"color": "#ff3b3c",
+			"description": "Those with higher Ultranationalism scores believe in concept of nationhood, belonging to nation. As such, they oppose a cooperative global network, even opposing all kinds of outside interference, aiming to squash all things foreign."
+		},
+		"tiers": [
+			"Extremely World Federal",
+			"Solidly World Federal",
+			"Moderately World Federal",
+			"Neutral",
+			"Moderately Ultranational",
+			"Solidly Ultranational",
+			"Extremely Ultranational"
+		]
+	},
+	{
+		"id": "gvrn",
+		"name": "Government",
+		"left": {
+			"name": "Democracy",
+			"color": "#0050ff",
+			"description": "."
+		},
+		"right": {
+			"name": "Totality",
+			"color": "#0050ff",
+			"description": "."
+		},
+		"tiers": [
+			"Extremely Democratic",
+			"Solidly Democracy",
+			"Moderately Democracy",
+			"Neutral",
+			"Moderately Totality",
+			"Solidly Totality",
+			"Extremely Totality"
+		]
+	},
+	{
+		"id": "auth",
+		"name": "Authorization",
+		"left": {
+			"name": "Liberty",
+			"color": "#ffb600",
+			"description": "."
+		},
+		"right": {
+			"name": "Limited",
+			"color": "#bd0055",
+			"description": "."
+		},
+		"tiers": [
+			"Extremely Libertarian",
+			"Solidly Libertarian",
+			"Moderately Libertarian",
+			"Neutral",
+			"Moderately Limiting",
+			"Solidly Limiting",
+			"Extremely Limiting"
+		]
+	},
+	{
+		"id": "mind",
+		"name": "Mind",
+		"left": {
+			"name": "Tolerance",
+			"color": "#fc6e00",
+			"description": "."
+		},
+		"right": {
+			"name": "Ignorance",
+			"color": "#00887a",
+			"description": "."
+		},
+		"tiers": [
+			"Extremely Tolerant",
+			"Solidly Tolerant",
+			"Moderately Tolerant",
+			"Neutral",
+			"Moderately Ignorant",
+			"Solidly Ignorant",
+			"Extremely Ignorant"
+		]
+	},
+	{
+		"id": "relg",
+		"name": "Religion",
+		"left": {
+			"name": "Secular",
+			"color": "#ff9700",
+			"description": "."
+		},
+		"right": {
+			"name": "Theocratic",
+			"color": "#03a9f5",
+			"description": "."
+		},
+		"tiers": [
+			"Extremely Secular",
+			"Solidly Secular",
+			"Moderately Secular",
+			"Neutral",
+			"Moderately Theocratic",
+			"Solidly Theocratic",
+			"Extremely Theocratic"
+		]
+	},
+	{
+		"id": "lead",
+		"name": "Leaders",
+		"left": {
+			"name": "Hexarchy",
+			"color": "#9c28b1",
+			"description": "."
+		},
+		"right": {
+			"name": "Monoarchy",
+			"color": "#6100ff",
+			"description": "."
+		},
+		"tiers": [
+			"Extremely Hexarchic",
+			"Solidly Hexarchic",
+			"Moderately Hexarchic",
+			"Neutral",
+			"Moderately Monoarchic",
+			"Solidly Monoarchic",
+			"Extremely Monoarchic"
+		]
+	},
+	{
+		"id": "clim",
+		"name": "Climate",
+		"left": {
+			"name": "Environmental",
+			"color": "#acff7b",
+			"description": "."
+		},
+		"right": {
+			"name": "Pollutionist",
+			"color": "#300c00",
+			"description": "."
+		},
+		"tiers": [
+			"Extremely Environmental",
+			"Solidly Environmental",
+			"Moderately Environmental",
+			"Neutral",
+			"Moderately Pollutionist",
+			"Solidly Pollutionist",
+			"Extremely Pollutionist"
+		]
+	}
+]
