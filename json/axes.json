@@ -14,13 +14,13 @@
 			"description": "Those with higher Discrimination scores believe in valuing some more than others. They tend to be in favor of exclusion and separate treatment, oftentimes even based on matters of identity or unchangeable characteristics."
 		},
 		"tiers": [
-			"Extremely Equal",
-			"Solidly Equal",
-			"Moderately Equal",
+			"Colourblind",
+			"Multicultural",
+			"Activist",
 			"Neutral",
-			"Moderately Discriminatory",
-			"Solidly Discriminatory",
-			"Extremely Discriminatory"
+			"Stereotypes",
+			"Supremacy",
+			"Eugenics"
 		]
 	},
 	{
@@ -29,21 +29,21 @@
 		"left": {
 			"name": "Bioequalism",
 			"color": "#001d59",
-			"description": "Those with higher Bioequalism scores believe that species groups in general, groups of beings that share a common ancestry/gene pool, are essentially equal to other groups. Thus, they would be against seeing differently and treating differently anyone they deem as an individual in their own right as any different from one of a different species, not putting humanity above non-human folk for example."
+			"description": "If you have a higher Bioequal score, you belive in treating Animals/Extraterrestrials less harshly or the same as humans. You most likely think a lot of modern practices are harmful and need to be outlawed in favor of something more ethical."
 		},
 		"right": {
 			"name": "Speciesism",
 			"color": "#153d00",
-			"description": "Those with higher Speciesism scores often adhere to the idea that one's species should determine many aspects of their life and treatment. And even that this status might inherently entitle or disqualify beings based on their xenic origin. Oftentimes, they may advocate for the supremacy of their own species over others, like human supremacists who are hateful towards aliens, for example."
+			"description": "If you have a higher Speciesist score, then you're in favor of one species’ supremacy (Most likely humans.) You belive other animals are inferior to one species, and are below and used for the gains of the higher species."
 		},
 		"tiers": [
-			"Extremely Bioequal",
-			"Solidly Bioequal",
-			"Moderately Bioequal",
+			"Deep Ecology",
+			"Area 51 Raider",
+			"Outside Pets",
 			"Neutral",
-			"Moderately Speciesist",
-			"Solidly Speciesist",
-			"Extremely Speciesist"
+			"Pet-Owning",
+			"Poacher",
+			"Human-Supremacy"
 		]
 	},
 	{
@@ -60,13 +60,13 @@
 			"description": "Those with higher Ultranationalism scores believe in concept of nationhood, belonging to nation. As such, they oppose a cooperative global network, even opposing all kinds of outside interference, aiming to squash all things foreign."
 		},
 		"tiers": [
-			"Extremely World Federal",
-			"Solidly World Federal",
-			"Moderately World Federal",
+			"Cosmopolitan",
+			"United Nations",
+			"Alliances",
 			"Neutral",
-			"Moderately Ultranational",
-			"Solidly Ultranational",
-			"Extremely Ultranational"
+			"Patriot",
+			"Isolationist",
+			"Imperialist"
 		]
 	},
 	{
@@ -75,21 +75,21 @@
 		"left": {
 			"name": "Democracy",
 			"color": "#0050ff",
-			"description": "."
+			"description": "If you have a higher Democratic score, then you're more in favor of people being able to control the laws of the land according to their needs."
 		},
 		"right": {
 			"name": "Totality",
 			"color": "#282424",
-			"description": "."
+			"description": "If you have a higher Totality score, then you're more in favor of a single person/government entity making the laws, with little to no say given to the people."
 		},
 		"tiers": [
-			"Extremely Democratic",
-			"Solidly Democracy",
-			"Moderately Democracy",
+			"Direct Democracy",
+			"Liquid Democracy",
+			"Representative Democracy",
 			"Neutral",
-			"Moderately Totality",
-			"Solidly Totality",
-			"Extremely Totality"
+			"Technocratic",
+			"Authoritarian",
+			"Totalitarian"
 		]
 	},
 	{
@@ -98,21 +98,21 @@
 		"left": {
 			"name": "Liberty",
 			"color": "#ffb600",
-			"description": "."
+			"description": "If you have a higher Liberty score, then you are in favor of individual freedom, not being controlled by any government entity. You most likely are in favor of victimless crimes being legalized, freedom of speech and opinion, on and on."
 		},
 		"right": {
 			"name": "Limited",
 			"color": "#bd0055",
-			"description": "."
+			"description": "If you have a higher Limited score, then you believe that individual liberties need to be restricted, and in the extreme cases, totally controlled by the government."
 		},
 		"tiers": [
-			"Extremely Libertarian",
-			"Solidly Libertarian",
-			"Moderately Libertarian",
+			"Gadsdenism",
+			"Libertarian",
+			"Liberal",
 			"Neutral",
-			"Moderately Limiting",
-			"Solidly Limiting",
-			"Extremely Limiting"
+			"Moralist",
+			"Restrictive",
+			"English Socialism"
 		]
 	},
 	{
@@ -121,21 +121,21 @@
 		"left": {
 			"name": "Tolerance",
 			"color": "#fc6e00",
-			"description": "."
+			"description": "If you have a higher Tolerance score, then you believe in being more Tolerance and open to different beliefs, wanting to keep diverse beliefs in the public as much as possible."
 		},
 		"right": {
 			"name": "Ignorance",
 			"color": "#00887a",
-			"description": "."
+			"description": "If you have a higher Ignorance score, then you don't often listen to or don't want there to be external beliefs. You're more in favor of an Echo Chamber, and you want Ideological dissenters gone and dealt with."
 		},
 		"tiers": [
-			"Extremely Tolerant",
-			"Solidly Tolerant",
-			"Moderately Tolerant",
+			"Open Minded",
+			"Intrested",
+			"Ear-Perking",
 			"Neutral",
-			"Moderately Ignorant",
-			"Solidly Ignorant",
-			"Extremely Ignorant"
+			"Distrust",
+			"China-Ism",
+			"Echo-Chamber"
 		]
 	},
 	{
@@ -144,21 +144,21 @@
 		"left": {
 			"name": "Secular",
 			"color": "#ff9700",
-			"description": "."
+			"description": "If you have a higher Secular score, then you are in favor of a Religion-Free government, advocating for a government that can equally represent all religious and non-religious people equally."
 		},
 		"right": {
 			"name": "Theocratic",
 			"color": "#03a9f5",
-			"description": "."
+			"description": "If you have a higher Theocratic score, then you're more in favor of a Religious/Atheist government, with that belief being the dominant one in all government decisions."
 		},
 		"tiers": [
-			"Extremely Secular",
-			"Solidly Secular",
-			"Moderately Secular",
+			"Xenolib-Caressism",
+			"Secular Satanism",
+			"Religious Freedom",
 			"Neutral",
-			"Moderately Theocratic",
-			"Solidly Theocratic",
-			"Extremely Theocratic"
+			"Religious Majority",
+			"Theocracy",
+			"Esoteric Fundamentalism"
 		]
 	},
 	{
@@ -167,21 +167,21 @@
 		"left": {
 			"name": "Hexarchy",
 			"color": "#9c28b1",
-			"description": "."
+			"description": "If you have a higher Hexarchic score, then you belive that more leader would be beneficial to a society, rather than one or two."
 		},
 		"right": {
 			"name": "Monoarchy",
 			"color": "#6100ff",
-			"description": "."
+			"description": "Not to be confused with Monarchy, if you have a higher Monoarchic score, then you are more in favor of less or one single leader leading society rather than many."
 		},
 		"tiers": [
-			"Extremely Hexarchic",
-			"Solidly Hexarchic",
-			"Moderately Hexarchic",
+			"Hexarchy",
+			"Quintarchy",
+			"Quadarchy",
 			"Neutral",
-			"Moderately Monoarchic",
-			"Solidly Monoarchic",
-			"Extremely Monoarchic"
+			"Triarchy",
+			"Diarchy",
+			"Monoarchy"
 		]
 	},
 	{
@@ -190,21 +190,21 @@
 		"left": {
 			"name": "Environmental",
 			"color": "#acff7b",
-			"description": "."
+			"description": "If you have a higher Environmental score, then you believe that the environment should be protected and taken care of, rather than exploited for human gain."
 		},
 		"right": {
 			"name": "Pollutionist",
 			"color": "#300c00",
-			"description": "."
+			"description": "If you have a higher Pollutionist score, then you're more in favor of damaging the environment in favor of human needs, rather than spending time to care for it."
 		},
 		"tiers": [
-			"Extremely Environmental",
-			"Solidly Environmental",
-			"Moderately Environmental",
+			"Terraform Mars",
+			"Green Activist",
+			"Gardener",
 			"Neutral",
-			"Moderately Pollutionist",
-			"Solidly Pollutionist",
-			"Extremely Pollutionist"
+			"Human Needs",
+			"Anti-Environment",
+			"O-Hareism"
 		]
 	}
 ]
