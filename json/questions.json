@@ -497,7 +497,7 @@
 			"unit": 0,
 			"gvrn": 0,
 			"auth": 0,
-			"mind": -10,
+			"mind": 10,
 			"relg": 0,
 			"lead": 0,
 			"clim": 0
